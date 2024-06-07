@@ -3,12 +3,11 @@ module github.com/codepnw/mongo-atlas
 go 1.20
 
 require (
-	github.com/nicholasjackson/env v0.6.1
+	github.com/gofor-little/env v1.0.18
 	go.mongodb.org/mongo-driver v1.15.0
 )
 
 require (
-	github.com/gofor-little/env v1.0.18 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe // indirect
